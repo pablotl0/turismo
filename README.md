@@ -1,6 +1,7 @@
 ## Descripción del problema: Optimización del consumo energético en el hogar
 
-En el contexto actual de creciente preocupación por la sostenibilidad, el aumento de los costos energéticos y la necesidad urgente de mitigar el impacto ambiental, la optimización del consumo energético en los hogares se ha convertido en un desafío prioritario. Aunque los avances tecnológicos ofrecen nuevas oportunidades para mejorar la eficiencia energética, muchos hogares siguen sin tener una visión clara y detallada de cómo, cuándo y dónde se consume la mayor parte de la energía en sus viviendas. Esta falta de información impide la adopción de medidas efectivas que podrían reducir significativamente el consumo y, con ello, los costos asociados y la huella ecológica.
+Granada, ubicada en una región rica en patrimonio natural y cultural, atrae a millones de turistas cada año. Sin embargo, esta afluencia constante puede causar problemas significativos, como la degradación del medio ambiente y la saturación de infraestructuras. Según estudios, la gestión inadecuada del turismo puede llevar a la sobreexplotación de recursos naturales, afectando tanto la biodiversidad como la calidad de vida de los residentes locales
+Muchos turistas no tienen acceso a información sobre las capacidades de carga de cada área natural ni sobre las mejores prácticas para un turismo responsable. Esto resulta en decisiones de visita que pueden no ser sostenibles, como hacer caminatas en rutas que ya están sobrecargadas.
 
 ## Lenguaje
 
