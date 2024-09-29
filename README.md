@@ -1,12 +1,13 @@
-## Descripción del problema: Plataforma de Turismo Sostenible en Espacios Naturales
+## Descripción del problema: 
 
-Granada, ubicada en una región rica en patrimonio natural y cultural, atrae a millones de turistas cada año. Sin embargo, esta afluencia constante puede causar problemas significativos, como la degradación del medio ambiente y la saturación de infraestructuras. Según estudios, la gestión inadecuada del turismo puede llevar a la sobreexplotación de recursos naturales, afectando tanto la biodiversidad como la calidad de vida de los residentes locales
+En la actualidad, los datos ambientales son cruciales para entender la salud pública, la planificación urbana y el bienestar general. Sin embargo, se presenta una serie de desafíos al intentar obtener y analizar esta información:
 
-Muchos turistas no tienen acceso a información sobre las capacidades de carga de cada área natural ni sobre las mejores prácticas para un turismo responsable. Esto resulta en decisiones de visita que pueden no ser sostenibles, como hacer caminatas en rutas que ya están sobrecargadas.
+Acceso a Datos Dispersos: Los datos ambientales suelen estar distribuidos en diferentes fuentes, plataformas o formatos, lo que dificulta su recolección y comprensión.
+Falta de Contexto Comprensible: Aunque las autoridades publican informes o cifras, muchas veces no son accesibles para el ciudadano común debido a su lenguaje técnico o falta de explicación contextual.
+Variabilidad de los Datos: Los indicadores ambientales, como la calidad del aire o los niveles de polución, varían a lo largo del día, las estaciones y dependiendo de las actividades humanas, lo que requiere un seguimiento continuo y detallado para obtener una visión completa.
 
-## Lenguaje
+El proyecto se centra en la investigación y análisis de los datos ambientales de la ciudad, con el fin de entender cómo estos afectan la calidad de vida y varían a lo largo del tiempo. Como periodista, la meta es obtener una visión clara sobre los factores ambientales que influyen en la ciudad, como la calidad del aire, el nivel de ruido, las temperaturas, y otros indicadores clave del bienestar urbano, para luego comunicar esta información de manera efectiva a la comunidad.
 
-Para la implementación del proyecto usaré Python.
 
 ## Documentación adicional de cada objetivo
 
