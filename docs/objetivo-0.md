@@ -40,12 +40,3 @@ git config --global user.name "Tu Nombre Completo"
 ```bash
 git config --global user.email "tu_correo_electrónico@ejemplo.com"
 ```
-
-
-
-
-
-Con esto, ya habrás configurado correctamente tu entorno de Git y GitHub para trabajar de forma adecuada en la asignatura.
-```
-
-Este archivo contiene los pasos necesarios para la generación de un par de claves SSH, su subida a GitHub, la configuración de los detalles de usuario para los commits y la edición de perfil en GitHub. Puedes copiar y pegar este texto en un archivo `.md`.
