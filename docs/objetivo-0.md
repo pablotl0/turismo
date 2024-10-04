@@ -3,20 +3,20 @@
 ## Genero un nuevo par de claves:
 
 ```bash
-ssh-keygen -t rsa -b 4096 -C "pablotl@correo.ugr.es"
+ssh-keygen -t ed25519 -C "pablotl@correo.ugr.es"
 ```
 
 ## Especifico la ruta de almacenamiento
-Acepto la ubicación predeterminada (`~/.ssh/id_rsa`).
+Acepto la ubicación predeterminada (`~/.ssh/id_ed25519`).
 
 ## Agrego la clave SSH al agente SSH
 Me aseguro de que el agente SSH esté en ejecución y agrego la clave privada:
 
 ```bash
 eval "$(ssh-agent -s)"
-sh-add ~/.ssh/id_rsa
+ssh-add ~/.ssh/id_ed25519  
 ```
-
+![Imagen de generación de claves SSH](./ob0.png)
 
 ## Subo la Clave Pública a GitHub
 
@@ -27,16 +27,16 @@ Una vez que haya generado mis claves, debo subir la clave pública a GitHub para
 
 # Configuro Nombre y Correo Electrónico para los Commits
 
-Para que el nombre y correo electrónico aparezcan correctamente en tus commits, necesitas configurarlo globalmente en Git.
+Para que el nombre y correo electrónico aparezcan correctamente en tus commits, necesito configurarlo globalmente en Git.
 
 ### Paso 1: Configuro el nombre
 
 ```bash
-git config --global user.name "Tu Nombre Completo"
+git config --global user.name "Pablo Tamayo"
 ```
 
 ### Paso 2: Configuro el correo electrónico
 
 ```bash
-git config --global user.email "tu_correo_electrónico@ejemplo.com"
+git config --global user.email "pablotl@correo.ugr.es"
 ```
