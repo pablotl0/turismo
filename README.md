@@ -1,6 +1,10 @@
 ## Descripción del problema: 
 
-En la actualidad, los datos ambientales son cruciales para entender la salud pública, la planificación urbana y el bienestar general. Sin embargo, se presenta una serie de desafíos al intentar obtener y analizar esta información:
+En la actualidad, los datos ambientales son cruciales para distintos perfiles como :
+- Personas con problemas respiratorios
+- Investigadores ambientales
+- Responsables de políticas públicas
+Cuyos objetivos son entender la salud pública, la planificación urbana y el bienestar general. Sin embargo, se presenta una serie de desafíos al intentar obtener y analizar esta información:
 
 ### Acceso a Datos Dispersos: 
 A los investigadores ambientales les afecta que los datos suelen estar distribuidos en diferentes fuentes, plataformas o formatos, lo que dificulta su recolección y comprensión. 
