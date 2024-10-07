@@ -18,6 +18,7 @@ A los urbanistas, así como responsables de políticas públicas les afecta que 
 
 El proyecto se centra en la investigación y análisis de los datos ambientales de la ciudad, con el fin de entender cómo estos afectan la calidad de vida y varían a lo largo del tiempo. La meta es obtener una visión clara sobre los factores ambientales que influyen en la ciudad, como la calidad del aire, el nivel de ruido, las temperaturas, y otros indicadores clave del bienestar urbano, para luego comunicar esta información de manera efectiva a la comunidad.
 
+El proyecto se centrará en resolver los problemas de los distintos perfiles, ya mencionados ,mejorando la toma de decisiones y el bienestar público.
 
 ## Documentación adicional de cada objetivo
 
