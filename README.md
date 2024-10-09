@@ -21,8 +21,5 @@ El proyecto se centrará en organizar y dar accesibilidad a información contras
 ## Documentación adicional
 La documentación adicional se encuentra en el directorio [`/docs`](./docs/README.md).
 
-## Licencia
-La licencia del proyecto es  [`/LICENSE`](./LICENSE).
-
 
 
