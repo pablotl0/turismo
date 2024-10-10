@@ -1,5 +1,13 @@
 # User Stories
 
+### [HU0] Blanca: Desarolladora
+
+Descripción: Como equipo de desarrollo, necesitamos un modelo conceptual que describa claramente los requisitos del problema, para poder implementar las funcionalidades de la aplicación correctamente.
+
+Criterios de aceptación:
+- El diagrama conceptual ha sido revisado y aprobado por el equipo de desarrollo y stakeholders.
+- Se identifican todas las entidades y relaciones necesarias para el diseño del sistema.
+
 
 ### [HU1] Juan José, Investigador ambiental
 
