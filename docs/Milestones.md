@@ -27,8 +27,6 @@ Cómo se sabe que es válido:
 
 ### [M2] Milestone 2: **Interfaz y funcionalidades adicionales**
 
-Objetivo: Añadir funcionalidades que mejoren la interacción del usuario con la aplicación y resuelvan problemas de otros perfiles de usuario, como María.
-
 Producto:
 - Visualización de calidad del aire (HU02): Implementar una interfaz visual simple que muestre la calidad del aire de manera comprensible (por ejemplo, con colores o íconos) para María.
 - Alertas personalizadas: Permitir que los usuarios configuren alertas basadas en niveles específicos de contaminación o condiciones ambientales.
@@ -39,8 +37,6 @@ Cómo se sabe que es válido:
 
 
 ### [M3]Milestone 3: **Comparativa y análisis de datos avanzados**
-
-Objetivo: Permitir el análisis y comparación avanzada de datos entre diferentes zonas geográficas.
 
 Producto:
 - Comparación de datos por barrios (HU03): Implementar un mapa interactivo que permita ver la calidad del aire en distintos barrios y comparar los datos entre zonas.
