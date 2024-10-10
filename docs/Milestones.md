@@ -1,4 +1,6 @@
-[[M0] Milestone 0: **Diseño el modelo conceptual del problema**]
+# Milestones
+
+### [M0] Milestone 0: **Diseño el modelo conceptual del problema**
 
 Producto: 
 - Documentación que modela el problema: 
@@ -9,7 +11,8 @@ Cómo se sabe que es válido:
 - El equipo tiene acceso a una infraestructura preparada y puede comenzar a desarrollar características sin necesidad de configuraciones adicionales.
 - Se tienen claros los requisitos de negocio.
 
-[[M1] Milestone 1: **Implementación de la lógica de negocio base**]
+
+### [M1] Milestone 1: **Implementación de la lógica de negocio base**
 
 Producto:
 - Consolidación de datos (HU001): Implementar la capacidad de acceder a diferentes fuentes de datos ambientales y consolidarlos en la aplicación para los usuarios investigadores, como Juan José.
@@ -22,7 +25,7 @@ Cómo se sabe que es válido:
 - Las pruebas automatizadas confirman que la lógica de negocio funciona correctamente.
 
 
-[[M2] Milestone 2: **Interfaz y funcionalidades adicionales**]
+### [M2] Milestone 2: **Interfaz y funcionalidades adicionales**
 
 Objetivo: Añadir funcionalidades que mejoren la interacción del usuario con la aplicación y resuelvan problemas de otros perfiles de usuario, como María.
 
@@ -35,7 +38,7 @@ Cómo se sabe que es válido:
 - Los usuarios pueden personalizar alertas y recibir notificaciones cuando los niveles de contaminación superen ciertos umbrales.
 
 
-[[M3]Milestone 3: **Comparativa y análisis de datos avanzados**]
+### [M3]Milestone 3: **Comparativa y análisis de datos avanzados**
 
 Objetivo: Permitir el análisis y comparación avanzada de datos entre diferentes zonas geográficas.
 

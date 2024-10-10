@@ -6,6 +6,7 @@ Juan José es un investigador ambiental que pasa gran parte de su investigación
 Está acostumbrado a visitar múltiples plataformas y portales para encontrar datos ambientales actualizados. Pierde tiempo en consolidar esta información, lo que dificulta su análisis en tiempo real.
 
 Frecuencia de uso: Diariamente para realizar investigaciones.
+
 Contexto: En su laboratorio o en el campo, usando un portátil o tablet para acceder a plataformas de datos.
 
 Pasos:
@@ -20,6 +21,7 @@ María es una ciudadana con enfermedades respiratorias que le impiden llevar una
 María revisa varias aplicaciones meteorológicas y portales de calidad del aire, pero la información no siempre es clara o sencilla de interpretar. A veces se siente confundida sobre cuándo es seguro salir de casa.
 
 Frecuencia de uso: Varias veces al día, antes de salir de casa.
+
 Contexto: Desde su móvil, en casa o fuera de ella, buscando información clara y rápida sobre la calidad del aire.
 
 Pasos:
@@ -35,6 +37,7 @@ Mariano es el concejal del ayuntamiento cuyo trabajo es mejorar la calidad medio
 Mariano actualmente recibe informes parciales sobre los niveles de contaminación y tendencias ambientales, pero carece de una visión global y comparativa que le permita analizar las condiciones ambientales en diferentes barrios de la ciudad.
 
 Frecuencia de uso: Semanal o mensual, según los informes de calidad ambiental que recibe.
+
 Contexto: Desde su oficina en el ayuntamiento, utilizando su ordenador para revisar informes de calidad del aire y tendencias ambientales.
 
 Pasos:
