@@ -7,13 +7,12 @@ Está acostumbrado a visitar múltiples plataformas y portales para encontrar da
 
 Frecuencia de uso: Diariamente para realizar investigaciones.
 
-Contexto: En su laboratorio o en el campo, usando un portátil o tablet para acceder a plataformas de datos.
+Contexto: En su laboratorio o en el campo, usando un portátil para acceder a plataformas de datos.
 
 Pasos:
-- Abre diferentes plataformas de datos ambientales.
-- Consulta y recopila información de varias fuentes.
-- Consolida los datos manualmente en hojas de cálculo o informes.
-- Analiza los datos y extrae conclusiones para sus investigaciones.
+- Accede a la sección de datos ambientales donde la aplicación ya tiene integradas diferentes fuentes de datos fiables.
+- Usa el buscador para seleccionar las variables ambientales que le interesan (como calidad del aire, temperatura, o niveles de CO2) y la ciudad o región.
+- Descarga los datos en un formato adecuado (CSV, Excel) para su posterior análisis o integrarlos directamente en sus modelos de investigación.
 
 ## María
 
@@ -22,26 +21,24 @@ María revisa varias aplicaciones meteorológicas y portales de calidad del aire
 
 Frecuencia de uso: Varias veces al día, antes de salir de casa.
 
-Contexto: Desde su móvil, en casa o fuera de ella, buscando información clara y rápida sobre la calidad del aire.
+Contexto: Desde su portátil en casa, buscando información clara y rápida sobre la calidad del aire.
 
 Pasos:
-- Abre diversas apps meteorológicas.
-- Busca la información sobre la calidad del aire.
-- Intenta interpretar la información, a veces confusa o dispersa.
-- Decide si es seguro salir de casa en función de la información recibida.
+- Abre la aplicación en y accede directamente a la pantalla de inicio, que muestra la calidad del aire en su ubicación actual.
+- La aplicación presenta la calidad del aire de manera visual y simple, usando un sistema de colores (verde, amarillo, rojo) y un ícono que le indica si es seguro salir o no.
+- Configura alertas personalizadas y recibe notificaciones cuando los niveles de calidad del aire superan un umbral peligroso para su salud.
 
 
 ## Mariano
 
-Mariano es el concejal del ayuntamiento cuyo trabajo es mejorar la calidad medioambiental de la ciudad.
+Mariano es un diputado de la comunidad autónoma cuyo trabajo es mejorar la calidad medioambiental de la región.
 Mariano actualmente recibe informes parciales sobre los niveles de contaminación y tendencias ambientales, pero carece de una visión global y comparativa que le permita analizar las condiciones ambientales en diferentes barrios de la ciudad.
 
 Frecuencia de uso: Semanal o mensual, según los informes de calidad ambiental que recibe.
 
-Contexto: Desde su oficina en el ayuntamiento, utilizando su ordenador para revisar informes de calidad del aire y tendencias ambientales.
+Contexto: Desde su oficina, utilizando su ordenador para revisar informes de calidad del aire y tendencias ambientales.
 
 Pasos:
-- Recibe informes fragmentados de diferentes fuentes.
-- Analiza las tendencias de contaminación en cada barrio de la ciudad.
-- Toma decisiones sobre políticas ambientales con base en la información recibida.
-- Busca un enfoque más global y comparativo para gestionar los datos y analizar la información de manera eficiente.
+- Accede al dashboard por ciudades o regiones donde se muestran gráficos anuales de los datos ambientales.
+- Genera informes automáticos a través del análisis de los datos, generando tendencias y datos agregados como promedios, máximos y mínimos para facilitar la interpretación. 
+Que puede descargar y presentar en las reuniones del ayuntamiento.

@@ -1,34 +1,23 @@
 # User Stories
 
-### [HU0] Blanca: Desarolladora
 
-Descripción: Como equipo de desarrollo, necesitamos un modelo conceptual que describa claramente los requisitos del problema, para poder implementar las funcionalidades de la aplicación correctamente.
+### [HU1] Juan José, Investigador ambiental**
 
-Criterios de aceptación:
-- El diagrama conceptual ha sido revisado y aprobado por el equipo de desarrollo y stakeholders.
-- Se identifican todas las entidades y relaciones necesarias para el diseño del sistema.
+**Descripción**:  
+Como investigador ambiental, quiero acceder a una única plataforma que me permita consultar y descargar datos fiables de varias fuentes en tiempo real, para agilizar mi proceso de análisis.
+La plataforma debe integrar datos de **calidad del aire** (PM2.5, PM10, NO2, O3) y de otros parámetros ambientales como **temperatura**, **humedad**, **precipitación**, **radiación UV**, y **niveles de CO2**. 
+Los datos deben estar disponibles en **tiempo real** o en intervalos actualizados según la fuente. También necesito poder descargar los datos en **formatos como CSV, Excel o JSON** para facilitar el análisis posterior. 
+
+### [HU2] María, ciudadana con enfermedades respiratorias**
+
+**Descripción**:  
+Como ciudadana con problemas respiratorios, quiero consultar de manera sencilla y clara la calidad del aire para saber si es seguro salir de casa. Necesito que la plataforma me muestre la **calidad del aire** (PM2.5, PM10, NO2) de manera comprensible, a través de **colores** o **íconos** que indiquen si la situación es **buena, moderada o mala**. 
+La información debe ser fácil de consultar, y quiero que el sistema me envíe **alertas automáticas** cuando los niveles de contaminación superen los límites que yo configure. Me interesa principalmente conocer los datos de mi **zona local**, pero también debería ser posible ampliar el área de consulta a otras ciudades **españolas** si lo necesito.
 
 
-### [HU1] Juan José, Investigador ambiental
+### [HU3] Mariano, Diputado de la Comunidad Autónoma
 
-Descripción: Como investigador ambiental, quiero acceder a una única plataforma que me permita consultar y descargar datos fiables de varias fuentes en tiempo real, para agilizar mi proceso de análisis.
+**Descripción**:  
+Como diputado de una comunidad autónoma, quiero consultar un **mapa interactivo** que me permita seleccionar una ciudad o region y pueda visualizar los **niveles de contaminación** (PM2.5, PM10, NO2) y otros datos como **temperatura**, **viento**, y **precipitación** en diferentes ciudades de España a lo largo del año.
 
-Criterios de aceptación:
-- El sistema debe integrar datos de al menos varias plataformas de información ambiental.
-- Debe permitir la descarga de los datos consolidados en formatos como CSV o Excel.
-
-### [HU2] María, ciudadana con enfermedades respiratorias
-
-Descripción: Como ciudadana con problemas respiratorios, quiero consultar de manera sencilla y clara la calidad del aire para saber si es seguro salir de casa.
-
-Criterios de aceptación:
-- La aplicación debe mostrar un indicador claro (colores o íconos) sobre la calidad del aire (buena, moderada, mala).
-- Debe permitir personalizar alertas basadas en niveles específicos de contaminación.
-
-### [HU3] Mariano, concejal del ayuntamiento
-
-Descripción: Como concejal del ayuntamiento, quiero acceder a una plataforma que me permita comparar las condiciones ambientales entre diferentes barrios de la ciudad para tomar decisiones más informadas.
-
-Criterios de aceptación:
-- El sistema debe mostrar un mapa interactivo con datos comparativos de contaminación por zonas geográficas.
-- Debe generar informes comparativos automáticos para su descarga.
+Además, deseo generar **informes** en formatos descargables como **PDF, CSV o Excel**, con datos agregados y tendencias de las variables medioambientales, para presentar estos resultados en reuniones gubernamentales o de planificación.
