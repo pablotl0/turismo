@@ -27,3 +27,5 @@ La documentación adicional se encuentra en el directorio [`/docs`](./docs/ob0/R
 
 [Milestones](./docs/Milestones.md)
 
+[Formato de los datos ambientales](./docs/Formato-datos.md)
+
