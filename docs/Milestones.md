@@ -6,7 +6,7 @@
 - Código con las entidades del problema (estaciones meteorológicas, calidad del aire, factores ambientales), las características de cada entidad, como la temperatura o precipitaciones para los factores ambientales, y las relaciones entre estas entidades.
 
 **Criterios de validez**:
-- El modelo conceptual debe ser validado por al menos dos miembros del equipo, asegurando que cumpla con los requisitos básicos definidos en las historias de usuario.
+- Incluye las entidades del dominio y sus relaciones en el código.
 - La documentación debe ser comprensible y debe permitir a un nuevo desarrollador implementar el modelo en un entorno de trabajo sin confusiones.
 
 #### [M1] Milestone 1: **Implementación de consolidación de datos y visualización básica**
