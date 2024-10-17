@@ -3,14 +3,11 @@
 #### [M0] Milestone 0: **Diseño del modelo conceptual y viabilidad técnica**
 
 **Producto**:  
-- **Diagrama técnico detallado** que especifique las fuentes de datos y su integración en la plataforma.
-- **Especificación técnica** que describa el flujo de datos y cómo serán consolidados desde varias fuentes (PM2.5, PM10, NO2, O3, etc.).
-- **Documento de viabilidad técnica** que valide que las fuentes de datos nacionales y regionales son accesibles y pueden ser integradas en tiempo real.
+- Código con las entidades del problema (estaciones meteorológicas, calidad del aire, factores ambientales), las características de cada entidad, como la temperatura o precipitaciones para los factores ambientales, y las relaciones entre estas entidades.
 
 **Criterios de validez**:
-- El modelo debe incluir todas las fuentes de datos relevantes y demostrar que las conexiones a estas fuentes pueden establecerse de forma efectiva.
-- Se debe detallar el flujo de datos desde su origen hasta su representación en la plataforma.
-- Se debe validar que la infraestructura técnica soporta las actualizaciones de datos en tiempo real.
+- El modelo conceptual debe ser validado por al menos dos miembros del equipo, asegurando que cumpla con los requisitos básicos definidos en las historias de usuario.
+- La documentación debe ser comprensible y debe permitir a un nuevo desarrollador implementar el modelo en un entorno de trabajo sin confusiones.
 
 #### [M1] Milestone 1: **Implementación de consolidación de datos y visualización básica**
 
